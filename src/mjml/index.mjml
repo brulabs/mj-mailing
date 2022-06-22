@@ -1,0 +1,16 @@
+<mjml>
+    <mj-head>
+        <mj-include path="components/global/attributes.mjml" />
+        <mj-include path="components/global/styles.mjml" />
+        <mj-include path="components/global/breakpoint.mjml" />
+        <mj-include path="components/global/preview.mjml" />
+        <mj-include path="components/global/title.mjml" />
+    </mj-head>
+    <mj-body css-class="mj-body" mj-class="">
+        <mj-include path="components/global/header.mjml" />
+
+        <!-- Include content elements here -->
+
+        <mj-include path="components/global/footer.mjml" />
+    </mj-body>
+</mjml>

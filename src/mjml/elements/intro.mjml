@@ -1,0 +1,23 @@
+<!--
+    Customized component: Intro
+    Note: avoid text links because of Windows devices
+-->
+<mj-section css-class="mj-section" mj-class="">
+    <mj-column css-class="mj-column" mj-class="">
+        <mj-text css-class="mj-text" mj-class="color-green">
+            <h1>Lorem ipsum dolor sit amet</h1>
+        </mj-text>
+        <mj-text css-class="mj-text" mj-class="">
+            <p>Grüezi Max Muster</p>
+            <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+            </p>
+            <p>Wir wünschen einen schönen Sommer und freuen uns auf Ihren Besuch.<br>
+                Roth Pflanzen AG
+            </p>
+        </mj-text>
+        <mj-button css-class="mj-button" mj-class="button-default gap-top" href="https://www.agenturkoch.ch">
+            <strong style="color:#264430;font-weight:300;">Button</strong>
+        </mj-button>
+    </mj-column>
+</mj-section>

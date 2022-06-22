@@ -1,0 +1,26 @@
+<!--
+    Header with logo and newsletter number
+-->
+<mj-wrapper css-class="mj-wrapper" mj-class="no-gap-right no-gap-left">
+    <mj-section css-class="mj-section" mj-class="half-gap-bottom">
+        <mj-column css-class="mj-column" mj-class="">
+            <mj-button css-class="mj-button" mj-class="link-gray font-size-12 align-center color-gray" href="{ONLINE_VERSION}">
+                <strong style="color:#a4b0a8;font-weight:300;">Online Version</strong>
+            </mj-button>
+        </mj-column>
+    </mj-section>
+    <mj-section css-class="mj-section" mj-class="no-gap-top no-gap-bottom">
+        <mj-group css-class="mj-group" mj-class="">
+            <mj-column css-class="mj-column" mj-class="vertical-align-bottom">
+                <mj-image css-class="mj-image" mj-class="align-left" src="images/logo.png" target="_self" width="200px" href="index.html" />
+            </mj-column>
+            <mj-column css-class="mj-column" mj-class="vertical-align-bottom">
+                <mj-text css-class="mj-text" mj-class="font-size-12 align-right" padding-bottom="2px">
+                    <p>
+                        <strong>Newsletter N°1</strong> / 2022
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+</mj-wrapper>

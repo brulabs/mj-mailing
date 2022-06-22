@@ -1,0 +1,41 @@
+<!--
+Transactionmail content with title, description and Powermail output
+-->
+<mj-wrapper css-class="mj-wrapper transactionmail-content" mj-class="no-gap-top no-gap-bottom">
+    <mj-section css-class="mj-section" mj-class="no-gap-bottom">
+        <mj-column css-class="mj-column" mj-class="">
+            <mj-text css-class="mj-text" mj-class="">
+                <h2>Sehr geehrte Frau Muster</h2>
+            </mj-text>
+            <mj-text css-class="mj-text" mj-class="">
+                <p>Wir haben Ihre Anfrage erhalten und werden diese schnellstmöglich bearbeiten.</p>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section css-class="mj-section" mj-class="">
+        <mj-column css-class="mj-column" mj-class="highlightbox bgcolor-tertiary">
+            <mj-text css-class="mj-text powermail-output" mj-class="">
+                <h3>Ihre Angaben:</h3>
+                <!-- Powermail output - not editable -->
+                <table class=3D"powermail_all">
+                    <tr>
+                        <td valign=3D"top"><b>Vorname</b></td>
+                        <td valign=3D"top">Maria</td>
+                    </tr>
+                    <tr>
+                        <td valign=3D"top"><b>Nachname</b></td>
+                        <td valign=3D"top">Muster</td>
+                    </tr>
+                    <tr>
+                        <td valign=3D"top"><b>E-Mail</b></td>
+                        <td valign=3D"top"><a href="mailto:test@koch-k.ch">maria.muster@bluewin.ch</a></td>
+                    </tr>
+                    <tr>
+                        <td valign=3D"top"><b>Ihre Mitteilung</b></td>
+                        <td valign=3D"top">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+                    </tr>
+                </table>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+</mj-wrapper>

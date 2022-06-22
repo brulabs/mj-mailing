@@ -1,0 +1,17 @@
+<!--
+    Trustpilot E-Mail-Widgets: TrustBox Newsletter, small
+    Project: Thurgau Travel
+-->
+<mj-section css-class="mj-section" mj-class="gap-right gap-left">
+    <mj-column css-class="mj-column" mj-class="">
+        <mj-raw>
+            <p style="text-align: center;">
+                <a href="https://ch.trustpilot.com/review/thurgautravel.ch?utm_medium=Trustbox&amp;utm_source=EmailNewsletter2" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+                    <img src="https://emailsignature.trustpilot.com/brand/n/2/logo.png" style="max-height: 32px; width: initial; margin: 0px;" alt="Trustpilot Logo" height="32" border="0"><br>
+                    <img src="https://emailsignature.trustpilot.com/newsletter/de-CH/2/600162e9312cb900013de157/stars.png" style="max-height: 32px; width: initial; margin: 5px 0px;" alt="Trustpilot Stars" height="32" border="0"><br>
+                    <img src="https://emailsignature.trustpilot.com/newsletter/de-CH/2/600162e9312cb900013de157/text@2x.png" style="max-height: 14px; width: initial; margin: 0px;" alt="TrustScore" height="14" border="0">
+                </a>
+            </p>
+        </mj-raw>
+    </mj-column>
+</mj-section>

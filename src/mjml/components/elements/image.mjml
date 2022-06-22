@@ -1,0 +1,8 @@
+<!--
+Image element
+-->
+<mj-section css-class="mj-section image" mj-class="">
+    <mj-column css-class="mj-column" mj-class="">
+        <mj-image css-class="mj-image" mj-class="fluid-on-mobile" src="https://source.unsplash.com/g1Kr4Ozfoac/960x540" />
+    </mj-column>
+</mj-section>

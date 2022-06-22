@@ -1,0 +1,4 @@
+<!--
+    Standard body component: Divider
+-->
+<mj-divider css-class="mj-divider" mj-class="divider" />

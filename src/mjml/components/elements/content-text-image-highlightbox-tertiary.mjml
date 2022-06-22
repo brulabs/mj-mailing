@@ -1,0 +1,21 @@
+<!--
+Highlightbox with two columns. Text, link & image (avoid text links because of Windows devices)
+-->
+<mj-wrapper css-class="mj-wrapper content-text-image highlightbox" mj-class="gap-right gap-left">
+    <mj-section css-class="mj-section" mj-class="bgcolor-tertiary no-gap-top no-gap-right no-gap-bottom no-gap-left">
+        <mj-column css-class="mj-column" mj-class="">
+            <mj-image css-class="mj-image" mj-class="fluid-on-mobile" src="https://source.unsplash.com/OD9EOzfSOh0/450x450" alt="" />
+        </mj-column>
+        <mj-column css-class="mj-column full-height" mj-class="highlightbox">
+            <mj-text css-class="mj-text" mj-class="">
+                <h2>Überschrift</h2>
+            </mj-text>
+            <mj-text css-class="mj-text" mj-class="">
+                <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+            </mj-text>
+            <mj-button css-class="mj-button" mj-class="link gap-top" href="#">
+                <strong style="color:#222;font-weight:300;">mehr lesen</strong>
+            </mj-button>
+        </mj-column>
+    </mj-section>
+</mj-wrapper>

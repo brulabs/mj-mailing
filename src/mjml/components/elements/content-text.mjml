@@ -1,0 +1,17 @@
+<!--
+Content element with text & button (avoid text links because of Windows devices)
+-->
+<mj-section css-class="mj-section content-text" mj-class="">
+    <mj-column css-class="mj-column" mj-class="">
+        <mj-text css-class="mj-text" mj-class="">
+            <h2>Überschrift 2</h2>
+        </mj-text>
+        <mj-text css-class="mj-text" mj-class="">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p>Duis aute irure dolor in <a href="#">reprehenderit</a> in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        </mj-text>
+        <mj-button css-class="mj-button" mj-class="button gap-top" href="#">
+            <strong style="color:#222; font-weight: 300;">Button</strong>
+        </mj-button>
+    </mj-column>
+</mj-section>

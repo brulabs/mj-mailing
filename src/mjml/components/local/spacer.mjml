@@ -1,0 +1,4 @@
+<!--
+    Standard body component: Spacer
+-->
+<mj-spacer css-class="mj-spacer" mj-class="spacer" />

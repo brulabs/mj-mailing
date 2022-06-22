@@ -1,0 +1,6 @@
+<!--
+    Standard body component: Button (set button color in styles)
+-->
+<mj-button css-class="mj-button" mj-class="button-default" href="#">
+    <strong style="color:#000;font-weight:300;">Button</strong>
+</mj-button>

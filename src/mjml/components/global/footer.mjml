@@ -1,0 +1,56 @@
+<!--
+    Footer with meta menu and social links
+-->
+<mj-wrapper css-class="mj-wrapper footer" mj-class="">
+    <mj-section css-class="mj-section" mj-class="no-gap-top no-gap-bottom">
+        <mj-column css-class="mj-column" mj-class="">
+            <mj-divider css-class="mj-divider" mj-class="" />
+        </mj-column>
+    </mj-section>
+    <mj-section css-class="mj-section" mj-class="no-gap-bottom">
+        <mj-column css-class="mj-column" mj-class="">
+            <mj-image css-class="mj-image" mj-class="align-center" src="images/logo.png" width="156px" href="index.html" target="_self" />
+        </mj-column>
+    </mj-section>
+    <mj-section css-class="mj-section" mj-class="no-gap-bottom">
+        <mj-column css-class="mj-column" mj-class="">
+            <mj-text css-class="mj-text" mj-class="font-size-12 align-center">
+                <p>
+                    Roth Pflanzen AG, Gartencenter und Baumschule<br>
+                    Uttwilerstrasse 296, 8593 Kesswil
+                </p>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section css-class="mj-section" mj-class="no-gap-bottom">
+        <mj-column css-class="mj-column" mj-class="">
+            <mj-social css-class="mj-social" mj-class="">
+                <mj-social-element css-class="mj-social-element" mj-class="" icon-size="40px" src="icons/facebook@2x.png" href="#"></mj-social-element>
+                <mj-social-element css-class="mj-social-element" mj-class="" icon-size="40px" src="icons/instagram@2x.png" href="#"></mj-social-element>
+                <mj-social-element css-class="mj-social-element" mj-class="" icon-size="40px" src="icons/linkedin@2x.png" href="#"></mj-social-element>
+            </mj-social>
+        </mj-column>
+    </mj-section>
+    <mj-section css-class="mj-section" mj-class="half-gap-top half-gap-bottom">
+        <mj-column css-class="mj-column" mj-class="">
+
+            <mj-text css-class="mj-text" mj-class="align-center font-size-12">
+                <p>
+                    <a href="#" style="text-decoration:none;padding:0 5px;">
+                        <strong style="color:#264430;font-weight:300">Impressum</strong>
+                    </a>
+                    <a href="#" style="text-decoration:none;padding:0 5px;">
+                        <strong style="color:#264430;font-weight:300">Datenschutz</strong>
+                    </a>
+                </p>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section css-class="mj-section" mj-class="">
+        <mj-column css-class="mj-column" mj-class="">
+            <mj-button css-class="mj-button" mj-class="link-gray font-size-12 align-center color-gray" href="{UNSUBSCRIBE}">
+                <strong style="color:#a4b0a8;font-weight:300;">Vom Newsletter abmelden</strong>
+            </mj-button>
+        </mj-column>
+    </mj-section>
+</mj-wrapper>

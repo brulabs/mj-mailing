@@ -1,0 +1,22 @@
+<!--
+    Customized component: Highlightbox
+    Note: avoid text links because of Windows devices
+-->
+<mj-section css-class="mj-section" mj-class="gap-right gap-left">
+    <mj-column css-class="mj-column" mj-class="highlightbox bg-color-jewel">
+        <mj-text css-class="mj-text" mj-class="color-white font-size-12 gap-bottom">
+            <p>Kurse</p>
+        </mj-text>
+        <mj-text css-class="mj-text" mj-class="color-white">
+            <h2>Schnittkurs Beeren, 24. April 2022</h2>
+        </mj-text>
+        <mj-text css-class="mj-text" mj-class="color-white">
+            <p>
+                Wollen auch Sie mit wenig Schnittaufwand eine reiche Beerenernte im Herbst? Dann ist dieser Kurs genau das Richtige für Sie. Melden Sie sich jetzt an.
+            </p>
+        </mj-text>
+        <mj-button css-class="mj-button" mj-class="button-bright gap-top" href="#">
+            <strong style="color:#fff;font-weight:300;">Button</strong>
+        </mj-button>
+    </mj-column>
+</mj-section>

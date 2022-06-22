@@ -1,0 +1,4 @@
+<!--
+On which breakpoint the layout should go desktop/mobile
+-->
+<mj-breakpoint width="600px" />

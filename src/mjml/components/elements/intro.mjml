@@ -1,0 +1,17 @@
+<!--
+Intro element
+-->
+<mj-section css-class="mj-section" mj-class="">
+    <mj-column css-class="mj-column" mj-class="">
+        <mj-text css-class="mj-text" mj-class="font-size-10 double-letter-spacing gap-bottom">
+            <p>Newsletter 12 / 2021</p>
+        </mj-text>
+        <mj-text css-class="mj-text" mj-class="">
+            <h1>Überschrift 1</h1>
+            <p>Grüezi Max Muster</p>
+            <p>
+                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+            </p>
+        </mj-text>
+    </mj-column>
+</mj-section>

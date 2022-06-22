@@ -1,0 +1,8 @@
+<!--
+    Standard body component: Text (RTE)
+    Note: Textlinks can't be styled
+-->
+<mj-text css-class="mj-text" mj-class="text">
+    <h2>Ich bin eine Überschrift 2</h2>
+    <p>Lorem ipsum dolor sit amet, consec tetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+</mj-text>

@@ -1,0 +1,8 @@
+<!--
+    Customized component: Divider
+-->
+<mj-section css-class="mj-section" mj-class="">
+    <mj-column css-class="mj-column" mj-class="">
+        <mj-divider css-class="mj-divider" mj-class="" />
+    </mj-column>
+</mj-section>

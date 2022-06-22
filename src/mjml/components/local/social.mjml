@@ -1,0 +1,10 @@
+<!--
+    Standard body component: Social links
+-->
+<mj-social css-class="mj-social" mj-class="social">
+    <mj-social-element css-class="mj-social-element" mj-class="social-element" src="icons/linkedin.png" href="#"></mj-social-element>
+    <mj-social-element css-class="mj-social-element" mj-class="social-element" src="icons/facebook.png" href="#"></mj-social-element>
+    <mj-social-element css-class="mj-social-element" mj-class="social-element" src="icons/instagram.png" href="#"></mj-social-element>
+    <mj-social-element css-class="mj-social-element" mj-class="social-element" src="icons/twitter.png" href="#"></mj-social-element>
+    <mj-social-element css-class="mj-social-element" mj-class="social-element" src="icons/youtube.png" href="#"></mj-social-element>
+</mj-social>

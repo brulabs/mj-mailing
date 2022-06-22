@@ -1,0 +1,70 @@
+<!--
+    Global attributes
+-->
+<mj-attributes>
+    <!-- basic -->
+    <mj-all font-family="Helvetica, sans-serif" font-size="14px" line-height="1.28" font-weight="300" color="#264430" />
+    <mj-body background-color="#fff" />
+    <!-- layout -->
+    <mj-wrapper padding="20px 0" />
+    <mj-section padding="20px 0" />
+    <mj-column padding="0" />
+    <mj-raw />
+    <mj-group />
+    <mj-divider padding="0 15px" border-width="1px" border-color="#a4b0a8" />
+    <mj-spacer padding="0 15px" />
+    <!-- content -->
+    <mj-text padding="0 15px" />
+    <mj-image padding="0 15px" />
+    <mj-button padding="0 15px" background-color="transparent" border-radius="0" align="left" />
+    <mj-table padding="0 15px" />
+    <!-- components -->
+    <mj-hero />
+    <mj-navbar />
+    <mj-navbar-link />
+    <mj-social padding="0 15px" border-radius="0" icon-height="20px" inner-padding="10px" text-padding="10px 10px 10px 0" line-height="1" />
+    <mj-carousel />
+    <mj-accordion />
+    <!-- typography (custom mj-classes) -->
+    <mj-class name="font-size-10" font-size="10px" />
+    <mj-class name="font-size-12" font-size="12px" />
+    <mj-class name="double-letter-spacing" letter-spacing="0.05rem" />
+    <!-- colors (custom mj-classes) -->
+    <mj-class name="color-white" color="#fff" />
+    <mj-class name="color-gray" color="#a4b0a8" />
+    <mj-class name="color-green" color="#57c068" />
+    <mj-class name="bg-color-emerald" background-color="#57c068" />
+    <mj-class name="bg-color-jewel" background-color="#1a814b" />
+    <mj-class name="bg-color-chrome-white" background-color="#e7efd3" />
+    <mj-class name="bg-color-pearl-lusta" background-color="#fbeed9" />
+    <!-- section container (custom mj-classes) -->
+    <mj-class name="full-width" full-width="full-width" />
+    <!-- alignments (custom mj-classes) -->
+    <mj-class name="align-right" align="right" />
+    <mj-class name="align-center" align="center" />
+    <mj-class name="align-left" align="left" />
+    <mj-class name="vertical-align-top" vertical-align="top" />
+    <mj-class name="vertical-align-middle" vertical-align="middle" />
+    <mj-class name="vertical-align-bottom" vertical-align="bottom" />
+    <!-- gaps (custom mj-classes) -->
+    <mj-class name="no-gap-top" padding-top="0" />
+    <mj-class name="gap-top" padding-top="20px" />
+    <mj-class name="half-gap-top" padding-top="10px" />
+    <mj-class name="double-gap-top" padding-top="40px" />
+    <mj-class name="no-gap-bottom" padding-bottom="0" />
+    <mj-class name="gap-bottom" padding-bottom="20px" />
+    <mj-class name="half-gap-bottom" padding-bottom="10px" />
+    <mj-class name="double-gap-bottom" padding-bottom="40px" />
+    <mj-class name="gap-right" padding-right="15px" />
+    <mj-class name="no-gap-right" padding-right="0" />
+    <mj-class name="gap-left" padding-left="15px" />
+    <mj-class name="no-gap-left" padding-left="0" />
+    <!-- images (custom mj-classes) -->
+    <mj-class name="fluid-on-mobile" fluid-on-mobile="true" />
+    <!-- components (custom mj-classes) -->
+    <mj-class name="button-default" border="1px solid #264430" border-radius="50px" />
+    <mj-class name="button-bright" border="1px solid #fff" border-radius="50px" />
+    <mj-class name="link-default" border-bottom="1px solid #264430" inner-padding="0" />
+    <mj-class name="link-gray" border-bottom="1px solid #a4b0a8" inner-padding="0" />
+    <mj-class name="highlightbox" padding="30px 15px" />
+</mj-attributes>

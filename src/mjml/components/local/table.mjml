@@ -1,0 +1,20 @@
+<!--
+    Standard body component: Table
+-->
+<mj-table>
+    <tr style="text-align:left;">
+        <th>Year</th>
+        <th>Language</th>
+        <th>Inspired from</th>
+    </tr>
+    <tr>
+        <td>1995</td>
+        <td>PHP</td>
+        <td>C, Shell Unix</td>
+    </tr>
+    <tr>
+        <td>1995</td>
+        <td>JavaScript</td>
+        <td>Scheme, Self</td>
+    </tr>
+</mj-table>

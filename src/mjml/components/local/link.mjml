@@ -1,0 +1,6 @@
+<!--
+    Standard body component: Button as link (set button color in styles)
+-->
+<mj-button css-class="mj-button" mj-class="link-gray" href="#">
+    <strong style="color:#a4b0a8;font-weight:300;">Underlined link</strong>
+</mj-button>

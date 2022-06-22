@@ -1,0 +1,4 @@
+<!--
+    Standard body component: Image
+-->
+<mj-image css-class="mj-image" mj-class="image" src="https://source.unsplash.com/cckf4TsHAuw" alt="" />

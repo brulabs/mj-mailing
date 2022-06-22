@@ -1,0 +1,25 @@
+<!--
+    Global styles
+    Note: Textlinks can't be styled (Windows)
+-->
+<mj-style inline="inline">
+    h1, h2, h3 { font-weight: 300; margin: 0 0 23px 0; }
+    h1, h2, h3, p { margin: 0 0 16px 0; }
+    h1 { font-size: 38px; }
+    h2 { font-size: 21px; }
+    h3 { font-size: 18px; }
+    p:last-child { margin: 0; }
+    .powermail-output a { color: #264430; }
+    .powermail-output table { display: block; width: 100%; }
+    .powermail-output table tr { display: block; width: 100%; margin-bottom: 20px; }
+    .powermail-output table tr:last-child { margin-bottom: 0; }
+    .powermail-output table td { display: block; width: 100%; }
+    .powermail-output table td b { font-weight: 700; }
+</mj-style>
+<!--
+    CSS styles will be added to the head of the rendered HTML
+    Note: Responsive styles (media queries) do not work at Windows devices
+-->
+<mj-style>
+    .appleLinks a { color: #fff !important;text-decoration: none; }
+</mj-style>

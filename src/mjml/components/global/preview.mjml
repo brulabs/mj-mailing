@@ -1,0 +1,4 @@
+<!--
+Preview that will be displayed in the inbox of the recipient
+-->
+<mj-preview>Preview Text</mj-preview>

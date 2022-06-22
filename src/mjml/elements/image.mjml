@@ -1,0 +1,8 @@
+<!--
+    Customized component: Image
+-->
+<mj-section css-class="mj-section" mj-class="">
+    <mj-column css-class="mj-column" mj-class="">
+        <mj-image css-class="mj-image" mj-class="" src="https://source.unsplash.com/LrPKL7jOldI" alt="" />
+    </mj-column>
+</mj-section>
